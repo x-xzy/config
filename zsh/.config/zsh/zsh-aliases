@@ -1,0 +1,6 @@
+#!/bin/zsh
+alias ls="exa"
+alias ll="exa -l"
+alias la="exa -a"
+
+alias v="nvim"
